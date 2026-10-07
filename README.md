@@ -1,4 +1,4 @@
-# Hi, I'm Patrick Okoro 👋
+# Hi, I'm Patrick Okoro 
 
 ## Frontend Developer | Junior Full-Stack Developer
 
